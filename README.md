@@ -27,6 +27,11 @@ dashboard-vendas
 │   ├── exemplo-dashboard.png
 ```
 
+## 📷 Capturas de Tela
+![exemplo-dashboard](https://github.com/user-attachments/assets/3833e48c-bf95-4f16-a438-f07b4d0cbcc4)
+![assets](https://github.com/user-attachments/assets/49d4d9e7-a522-47bf-ad5a-90b704506a64)
+
+
 ## 🛠️ Como Usar
 1. Abra o arquivo `xbox-sales-dashboard.xlsx` no Excel.
 2. Navegue pelos gráficos e tabelas dinâmicas.
